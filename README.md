@@ -107,3 +107,5 @@ git remote add origin git@github.com:<YOUR ACCOUNT>/<YOUR REPOS>.git
 git push -u --force origin master
  
 ***
+
+// ipconfig getifaddr en0  -  get local ip
