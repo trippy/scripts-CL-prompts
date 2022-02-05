@@ -1,5 +1,6 @@
 # l33t
 here's a collection of my commonly used scripts and command line prompts that help make life a little bit easier
+
 see ~/.zshrc for a helpful collection of bash // zsh | terminal // command-line shortcuts
 ***
 kill notifs in dock:
